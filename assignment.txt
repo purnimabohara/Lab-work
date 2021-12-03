@@ -1,3 +1,0 @@
-1.add even number of first positive 10 integers.
-2. add odd number of first positive 10 integers.
-3. volume of the cuboid.
